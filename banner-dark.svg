@@ -107,7 +107,7 @@
   <text x="50" y="82" class="title-text cursor" dx="298">_</text>
 
   <!-- Subtitle lines -->
-  <text x="52" y="108" class="sub-text">Miguel Silva Caju · Data Science &amp; AI</text>
+  <text x="52" y="108" class="sub-text">Miguel Silva Cajusol · Data Science &amp; AI</text>
   <text x="52" y="128" class="sub-text">Lima, Perú · MLflow · Databricks · PyTorch</text>
 
   <!-- Tags -->
