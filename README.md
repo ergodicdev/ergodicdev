@@ -14,7 +14,7 @@
 
 ### `> Exploring the full state space of machine learning`
 
-**MSc Data Science & Artificial Intelligence** · Lima, Perú 🇵🇪
+**Data Science & Artificial Intelligence** · Lima, Perú 🇵🇪
 
 *A system is ergodic when its time average equals its space average.*  
 *I apply that same principle to learning — covering the full solution space.*
